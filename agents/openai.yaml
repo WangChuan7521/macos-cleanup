@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mac 扫描与确认清理"
+  short_description: "先扫描 Mac 缓存与磁盘占用，说明代价并生成清单，用户确认后执行清理并复核"
+  default_prompt: "请使用 $macos-cleanup 扫描我的 Mac，给出具体清理建议和计划，等我确认后再执行。"
